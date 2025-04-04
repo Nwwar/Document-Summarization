@@ -6,6 +6,7 @@
 
 ## 🚀 Features
 
+- 📄 **Multi-File Support** – Upload and process Word, PDF, and PPTX files.
 - ✂️ **Text Summarization** – Quickly distill long texts into brief summaries.
 - 🌐 **Web Interface** – Clean and minimal front end for ease of use.
 - ⚙️ **Modular Structure** – Easy to modify, extend, and understand.
